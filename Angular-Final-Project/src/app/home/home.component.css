@@ -1,0 +1,24 @@
+#home
+{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20%;
+    height: 400px;
+    width: 90%;
+    
+}
+#image-center{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20%;
+    height: 400px;
+    width: 90%;
+    overflow: hidden;
+}
+h1{
+    position: absolute;
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 500px;
+    
+}
